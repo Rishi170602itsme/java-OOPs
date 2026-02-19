@@ -14,7 +14,7 @@ public class AccessShodaowing {
            
         System.out.println("speak world");
           soul mine = new soul();
-        String say = mine.world.nextLine();// becaue the world scanner object is inside a soul name class hence go through the soul object(mine), that you created
+        String say = mine.world.nextLine();// because the world scanner object is inside a soul name class hence go through the soul object(mine), that you created
       
         mine.Heart Myheart = new Heart();
         Myheart.mind();
